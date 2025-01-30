@@ -2,10 +2,6 @@
 
 This project is a Netflix clone built using the MERN stack (MongoDB, Express.js, React.js, Node.js) and JWT authentication. It allows users to register, log in, and access a collection of movies and TV shows.
 
-## Live Website
-
-The website is live and can be accessed at [https://mynetflix-six.vercel.app](https://mynetflix-six.vercel.app).
-
 ## Login Credentials
 
 To log in to the website, please use the following credentials:
